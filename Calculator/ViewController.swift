@@ -28,7 +28,6 @@ class ViewController: UIViewController {
     var mResult = "0"
     
     @IBOutlet weak var mLabelResult: UILabel!
-    @IBOutlet var mButtonActions: [UIButton]!
     
     override func viewDidLoad() {
         super.viewDidLoad()
